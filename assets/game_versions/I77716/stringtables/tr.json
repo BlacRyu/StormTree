@@ -1,0 +1,22 @@
+{
+  "pegasus_core": {
+    "UnitData_Name_GreaterShrine": "Y\u00fcksek Sunak",
+    "UnitData_Name_LesserShrine": "Sunak",
+    "Button_Tooltip_ElderShrine_Button": "Kadim Sunak'a y\u00fckseltir. En ileri d\u00fczey \u015eeytan\u00ee yap\u0131lar\u0131n\u0131n ve geli\u015ftirmelerinin kilidini a\u00e7ar.\r\n\r\n\u00dcst Panel'den <Bold>G\u00f6lged\u00fcnya</> Animus Ayini'nin kilidini a\u00e7ar.\r\n\r\n\u015eeytan\u00ee birimleri <Bold>G\u00f6lge</> \u00fczerinde kal\u0131c\u0131 olarak saniyede %6 <Bold>Beyaz Can</> yenilenmesi kazan\u0131r.",
+    "Button_Tooltip_ArcshipTier1_Button": "U\u00e7abilen hareketli yap\u0131. Teryum toplamak i\u00e7in kullan\u0131l\u0131r. Etraf\u0131nda Kaskad Alan\u0131 olu\u015fturur. Sava\u015f d\u0131\u015f\u0131ndaki dost birimleri iyile\u015ftiren G\u00f6klerin Rahmeti yetene\u011fini kullanabilir.\r\n\r\n30 G\u00fc\u00e7 sa\u011flar.\r\n\r\n<Highlight>Y\u00fcksek Ak\u0131m:</> +%50 hareket h\u0131z\u0131 ve enerji yenilenmesi.",
+    "UnitData_Name_ElderShrine": "Kadim Sunak",
+    "UnitData_name_ArcshipTier2": "Arkistasyon",
+    "UnitData_name_ArcshipTier1": "Arkgemi",
+    "Button_tooltip_ArcshipTier2_Button": "Arkistasyon'a y\u00fckseltir. Daha geli\u015fmi\u015f birimlerin, yap\u0131lar\u0131n ve geli\u015ftirmelerin kilidini a\u00e7ar ve enerji yenilenmesini art\u0131r\u0131r.\r\n\r\n\u00dcst Panel'deki <Bold>Evrim Katalisti</> ve <Bold>Ar\u0131nd\u0131r</> Astral M\u00fcdahalelerinin kilidini a\u00e7ar.\r\n\r\n30 G\u00fc\u00e7 sa\u011flar.\r\n\r\n<Highlight>Y\u00fcksek Ak\u0131m</>: +%50 hareket h\u0131z\u0131 ve enerji yenilenmesi.",
+    "UnitData_name_HQTier2": "Komuta Merkezi",
+    "Button_Tooltip_HQTier2_Button": "Ana yap\u0131. Kaynak toplamak i\u00e7in kullan\u0131l\u0131r. \u00dcst Panel'deki Sens\u00f6r Dronu Konu\u015fland\u0131r ve Kalkanlar! yeteneklerinin kilidini a\u00e7ar.",
+    "UnitData_Name_HQTier1": "Komuta Noktas\u0131",
+    "UnitData_name_HQTier3": "Askomuta",
+    "Button_Tooltip_HQTier1_Button": "Ana yap\u0131. Kaynak toplamak i\u00e7in kullan\u0131l\u0131r.",
+    "Button_Tooltip_GreaterShrine_Button": "Y\u00fcksek Sunak'a y\u00fckseltir. Daha geli\u015fmi\u015f \u015eeytan\u00ee yap\u0131lar\u0131n ve geli\u015ftirmelerin kilidini a\u00e7ar.\r\n\r\n\u00dcst Panel'den <Bold>G\u00f6lgeta\u015f Tezah\u00fcr\u00fc</> Animus Ayini'nin kilidini a\u00e7ar.\r\n\r\n\u015eeytan\u00ee birimler kal\u0131c\u0131 olarak <Bold>G\u00f6lge</> \u00fczerindeyken saniyede %4 <Bold>Beyaz Can</> yenilenmesi kazan\u0131r.",
+    "Button_Tooltip_LesserShrine_Button": "Ana yap\u0131. Kaynaklar\u0131 toplamak i\u00e7in kullan\u0131l\u0131r. <Bold>G\u00f6lge</> yayar.",
+    "UnitData_name_ArcshipTier3": "Arkhisar",
+    "Button_tooltip_ArcshipTier3_Button": "Arkhisar'a y\u00fckseltir. En y\u00fcksek seviye Semav\u00ee birimlerin, yap\u0131lar\u0131n ve geli\u015ftirmelerin kilidini a\u00e7ar. Enerji yenilenmesini art\u0131r\u0131r ve Kaderin Sonu yetene\u011fini etkinle\u015ftirir.\r\n\r\n\u00dcst Panel'deki <Bold>Aeon Kap\u0131s\u0131 \u00c7a\u011f\u0131r</> Astral M\u00fcdahalesi'nin kilidini a\u00e7ar.\r\n\r\n30 G\u00fc\u00e7 sa\u011flar.\r\n\r\n<Highlight>Y\u00fcksek Ak\u0131m</>: +%50 hareket h\u0131z\u0131 ve enerji yenilenmesi.",
+    "Button_Tooltip_HQTier3_Button": "Ana yap\u0131. Kaynak toplamak i\u00e7in kullan\u0131l\u0131r. K.O.R. A\u015f\u0131r\u0131 Y\u00fckleme ve Sens\u00f6r Dronu Konu\u015fland\u0131r yeteneklerini kullanabilir."
+  }
+}

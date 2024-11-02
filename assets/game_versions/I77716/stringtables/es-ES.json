@@ -1,0 +1,22 @@
+{
+  "pegasus_core": {
+    "UnitData_Name_GreaterShrine": "Gran Santuario",
+    "UnitData_Name_LesserShrine": "Santuario",
+    "Button_Tooltip_ElderShrine_Button": "Actualiza a Santuario primigenio, desbloqueando la c\u00faspide de las unidades, estructuras y mejoras Infernales.\r\n\r\nActiva el Ritual an\u00edmico <Bold>Ca\u00edda umbr\u00eda</> desde el panel superior.\r\n\r\nOtorga permanentemente a las unidades Infernales un 6\u00a0% de regeneraci\u00f3n de <Bold>Salud blanca</> por segundo en <Bold>Bruma</>.",
+    "Button_Tooltip_ArcshipTier1_Button": "Estructura m\u00f3vil voladora. Se utiliza para recibir el Therium recogido. Proyecta un Campo cascada a su alrededor y puede usar la habilidad Salvaci\u00f3n celestial, que cura a las unidades amigas fuera de combate.\r\n\r\nProporciona 30 de energ\u00eda.\r\n\r\n<Highlight>Sobrecarga</>: Aumenta un 50\u00a0% su velocidad de movimiento y su regeneraci\u00f3n de energ\u00eda.",
+    "UnitData_Name_ElderShrine": "Santuario primigenio",
+    "UnitData_name_ArcshipTier2": "D\u00e1rsena del Arca",
+    "UnitData_name_ArcshipTier1": "Arca",
+    "Button_tooltip_ArcshipTier2_Button": "Actualiza a D\u00e1rsena del Arca, que desbloquea unidades, estructuras y mejoras m\u00e1s avanzadas. Aumenta la regeneraci\u00f3n de energ\u00eda.\r\n\r\nDesbloquea las Intervenciones astrales <Bold>Catalizador evolutivo</> y <Bold>Purificar</> del panel superior.\r\n\r\nProporciona 30 Potencia.\r\n\r\n<Highlight>Sobrecarga</>: Aumenta un 50\u00a0% su velocidad de movimiento y su regeneraci\u00f3n de energ\u00eda.",
+    "UnitData_name_HQTier2": "Cuartel general",
+    "Button_Tooltip_HQTier2_Button": "Estructura primaria. Se utiliza para recibir los recursos reunidos. Activa las habilidades Desplegar dron sensor y \u00a1Escudos arriba! del panel superior.",
+    "UnitData_Name_HQTier1": "Puesto de mando",
+    "UnitData_name_HQTier3": "Alto Mando",
+    "Button_Tooltip_HQTier1_Button": "Estructura primaria. Se utiliza para recibir los recursos reunidos.",
+    "Button_Tooltip_GreaterShrine_Button": "Actualiza a Gran Santuario, desbloqueando unidades, estructuras y mejoras avanzadas. \r\n\r\nActiva el Ritual an\u00edmico <Bold>Manifestaci\u00f3n de Piedra brumosa</> en el panel superior.\r\n\r\nOtorga permanentemente a las unidades Infernales un 4\u00a0% de regeneraci\u00f3n de <Bold>Salud blanca</> por segundo en <Bold>Bruma</>.",
+    "Button_Tooltip_LesserShrine_Button": "Estructura primaria. Se utiliza para recibir los recursos reunidos. Difundir <Bold>Bruma</>.",
+    "UnitData_name_ArcshipTier3": "Fortaleza del Arca",
+    "Button_tooltip_ArcshipTier3_Button": "Actualiza a Fortaleza del Arca desbloqueando la c\u00faspide de las unidades, estructuras y mejoras Celestiales. Aumenta la regeneraci\u00f3n de energ\u00eda y habilita la habilidad Destino final.\r\n\r\nHabilita la Intervenci\u00f3n Astral <Bold>Invocar Puerta e\u00f3nica</> desde el panel superior.\r\n\r\nProporciona 30 de energ\u00eda.\r\n\r\n<Highlight>Sobrecarga</>: Aumenta un 50\u00a0% su velocidad de movimiento y su regeneraci\u00f3n de energ\u00eda.",
+    "Button_Tooltip_HQTier3_Button": "Estructura primaria. Se utiliza para recibir los recursos reunidos. Puede usar las habilidades Sobrecarga de B.O.B. y Desplegar dron sensor."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "pegasus_core": {
+    "UnitData_Name_GreaterShrine": "Greater Shrine",
+    "UnitData_Name_LesserShrine": "Shrine",
+    "Button_Tooltip_ElderShrine_Button": "Upgrades to the Elder Shrine, unlocking the pinnacle of Infernal units, structures, and upgrades.\r\n\r\nEnables the <Bold>Shadowfall</> Animus Ritual from the Top Panel.\r\n\r\nPermanently grants Infernal units 6% <Bold>White Health</> regeneration per second on <Bold>Shroud</>.",
+    "Button_Tooltip_ArcshipTier1_Button": "Flying mobile structure. Used to receive gathered Therium. Projects Cascade Field around itself, and can use the Skyward Salvation ability, which heals friendly units out-of-combat.\r\n\r\nProvides 30 Power.\r\n\r\n<Highlight>Surged</>: Gains 50% increased movement speed and energy regeneration.",
+    "UnitData_Name_ElderShrine": "Elder Shrine",
+    "UnitData_name_ArcshipTier2": "Arcstation",
+    "UnitData_name_ArcshipTier1": "Arcship",
+    "Button_tooltip_ArcshipTier2_Button": "Upgrades to the Arcstation, unlocking more advanced units, structures, and upgrades. Increases energy regeneration.\r\n\r\nEnables the <Bold>Evolution Catalyst</> and <Bold>Purify</> Astral Interventions from the Top Panel.\r\n\r\nProvides 30 Power.\r\n\r\n<Highlight>Surged</>: Gains 50% increased movement speed and energy regeneration.",
+    "UnitData_name_HQTier2": "Central Command",
+    "Button_Tooltip_HQTier2_Button": "Primary structure. Used to receive gathered resources. Enables the Deploy Sensor Drone and Shields Up! abilities from the Top Panel.",
+    "UnitData_Name_HQTier1": "Command Post",
+    "UnitData_name_HQTier3": "High Command",
+    "Button_Tooltip_HQTier1_Button": "Primary structure. Used to receive gathered resources.",
+    "Button_Tooltip_GreaterShrine_Button": "Upgrades to the Greater Shrine, unlocking more advanced units, structures, and upgrades. \r\n\r\nEnables the <Bold>Shroudstone Manifestation</> Animus Ritual from the Top Panel.\r\n\r\nPermanently grants Infernal units 4% <Bold>White Health</> regeneration per second on <Bold>Shroud</>.",
+    "Button_Tooltip_LesserShrine_Button": "Primary structure. Used to receive gathered resources. Spread <Bold>Shroud</>.",
+    "UnitData_name_ArcshipTier3": "Arcfortress",
+    "Button_tooltip_ArcshipTier3_Button": "Upgrades to the Arcfortress, unlocking the pinnacle of Celestial units, structures, and upgrades. Increases energy regeneration and enables the Fate's End ability.\r\n\r\nEnables the <Bold>Summon Aeon Gate</> Astral Intervention from the Top Panel.\r\n\r\nProvides 30 Power.\r\n\r\n<Highlight>Surged</>: Gains 50% increased movement speed and energy regeneration.",
+    "Button_Tooltip_HQTier3_Button": "Primary structure. Used to receive gathered resources. Can use the B.O.B. Overcharge and Deploy Sensor Drone abilities."
+  }
+}

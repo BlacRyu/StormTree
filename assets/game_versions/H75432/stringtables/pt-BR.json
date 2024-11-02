@@ -1,0 +1,26 @@
+{
+  "pegasus_core": {
+    "UnitData_Name_ElderShrine": "Templo Anci\u00e3o",
+    "Button_Tooltip_GreaterShrine_Button": "Aprimora para Templo Maior, desbloqueando unidades, estruturas e aprimoramentos mais avan\u00e7ados. \r\n\r\nHabilita os Rituais de Animus <Bold>Manifesta\u00e7\u00e3o da Pedra da Mortalha</> do Painel Superior.\r\n\r\nConcede 4% de regenera\u00e7\u00e3o permanente de <Bold>Sa\u00fade Branca</> por segundo \u00e0s unidades Infernais em estado de <Bold>Mortalha</>.",
+    "Button_tooltip_ArcshipTier3_Button": "Aprimora para a Arquifortaleza, desbloqueando o auge das unidades, estruturas e aprimoramentos Celestiais. Aumenta a regenera\u00e7\u00e3o de energia e desbloqueia a habilidade Fim do Destino.\r\n\r\nHabilita a Interven\u00e7\u00e3o Astral <Bold>Invocar Port\u00e3o de Aeon</> do Painel Superior.\r\n\r\nFornece 30 de Poder.\r\n\r\n<Highlight>Pico de Energia</>: Ganha 50% de aumento na velocidade de movimento e regenera\u00e7\u00e3o de energia.",
+    "Button_Tooltip_ElderShrine_Button": "Aprimora para o Templo Anci\u00e3o, desbloqueando unidades, estruturas e aprimoramentos.\r\n\r\nHabilita o Ritual de Animus <Bold>Queda das Sombras</> do Painel Superior.\r\n\r\nConcede permanentemente regenera\u00e7\u00e3o por segundo de 6% de <Bold>Sa\u00fade Branca</> \u00e0s unidades Infernais no modo <Bold>Mortalha</>.",
+    "UnitData_name_ArcshipTier2": "Arquiesta\u00e7\u00e3o",
+    "Button_Tooltip_HQTier2_Button": "Estrutura prim\u00e1ria. Usada para receber recursos coletados. Habilita as habilidades Posicionar Drone Sensor e Erguer Escudos! do Painel Superior.",
+    "Button_tooltip_ArcshipTier2_Button": "Aprimora para a Arquiesta\u00e7\u00e3o, desbloqueando unidades, estruturas e aprimoramentos mais avan\u00e7ados. Aumenta a regenera\u00e7\u00e3o de energia.\r\n\r\nHabilita as Interven\u00e7\u00f5es Astrais <Bold>Catalisador de Evolu\u00e7\u00e3o</> e <Bold>Purifica\u00e7\u00e3o</> do Painel Superior.\r\n\r\nFornece 30 de Poder.\r\n\r\n<Highlight>Pico de Energia</>: Ganha 50% de aumento de velocidade de movimento e regenera\u00e7\u00e3o de energia.",
+    "Button_Tooltip_HQTier3_Button": "Estrutura prim\u00e1ria. Usada para receber recursos coletados. Pode usar as habilidades Sobrecarga de B.O.B e Posicionar Drone Sensor.",
+    "UnitData_name_HQTier2": "Comando Central",
+    "Button_Tooltip_HQTier1_Button": "Estrutura prim\u00e1ria. Usada para receber recursos coletados.",
+    "UnitData_name_ArcshipTier3": "Arquifortaleza",
+    "UnitData_name_ArcshipTier1": "Arquinave",
+    "UnitData_name_HQTier3": "Alto comando",
+    "UnitData_Name_LesserShrine": "Santu\u00e1rio",
+    "UnitData_Name_GreaterShrine": "Templo Maior",
+    "Button_Tooltip_ArcshipTier1_Button": "Estrutura m\u00f3vel voadora. Usada para receber Therium coletado. Projeta Campo em Cascata em torno de si e pode usar a habilidade Salva\u00e7\u00e3o Celestial, que cura unidades aliadas fora de combate.\r\n\r\nFornece 30 de Poder.\r\n\r\n<Highlight>Pico de Energia</>: Ganha 50% de aumento na velocidade de movimento e regenera\u00e7\u00e3o de energia.",
+    "Button_Tooltip_LesserShrine_Button": "Estrutura prim\u00e1ria. Usada para receber recursos coletados. Emana <Bold>Mortalha</>.",
+    "UnitData_Name_HQTier1": "Posto de Comando"
+  },
+  "pegasus_commanders": {
+    "UnitData_name_GreaterShrineMaloc": "Templo Maior",
+    "UnitData_name_LesserShrineMaloc": "Santu\u00e1rio"
+  }
+}

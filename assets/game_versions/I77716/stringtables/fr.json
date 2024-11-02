@@ -1,0 +1,22 @@
+{
+  "pegasus_core": {
+    "UnitData_Name_GreaterShrine": "Grand sanctuaire",
+    "UnitData_Name_LesserShrine": "Sanctuaire",
+    "Button_Tooltip_ElderShrine_Button": "Am\u00e9liorer en Sanctuaire des anciens pour d\u00e9verrouiller la fine fleur des unit\u00e9s, des structures et des am\u00e9liorations infernales.\r\n\r\nD\u00e9bloque le Rituel d\u2019Animus <Bold>Chute de l\u2019ombre</> sur le panneau sup\u00e9rieur.\r\n\r\n R\u00e9cup\u00e9ration de <Bold>sant\u00e9 blanche</> augment\u00e9e d\u00e9finitivement de 6\u00a0% par seconde pour les unit\u00e9s infernales en <Bold>Linceul</>.",
+    "Button_Tooltip_ArcshipTier1_Button": "Structure mobile volante. Employ\u00e9e comme point de d\u00e9p\u00f4t du Therium collect\u00e9. Projette un Champ cascatellaire autour d\u2019elle et peut utiliser la capacit\u00e9 Salvation vers le ciel, qui soigne les unit\u00e9s alli\u00e9es hors combat.\r\n\r\nOctroie 30\u00a0points de puissance.\r\n\r\n<Highlight>Exaltation</>\u00a0: vitesse de d\u00e9placement et r\u00e9cup\u00e9ration d\u2019\u00e9nergie augment\u00e9es de 50\u00a0%.",
+    "UnitData_Name_ElderShrine": "Sanctuaire des anciens",
+    "UnitData_name_ArcshipTier2": "Arche-station",
+    "UnitData_name_ArcshipTier1": "Arche",
+    "Button_tooltip_ArcshipTier2_Button": "Am\u00e9liorer en Arche-station pour d\u00e9verrouiller des unit\u00e9s, des structures et des am\u00e9liorations avanc\u00e9es. Augmente la r\u00e9cup\u00e9ration d\u2019\u00e9nergie.\r\n\r\nD\u00e9bloque les Intervention astrales <Bold>Catalyseur \u00e9volutif</> et <Bold>Purification</> sur le panneau sup\u00e9rieur.\r\n\r\nOctroie 30\u00a0points de puissance.\r\n\r\n<Highlight>Exaltation</>\u00a0: vitesse de d\u00e9placement et r\u00e9cup\u00e9ration d\u2019\u00e9nergie augment\u00e9es de 50\u00a0%.",
+    "UnitData_name_HQTier2": "Commandement central",
+    "Button_Tooltip_HQTier2_Button": "Structure primaire. Utilis\u00e9e pour rassembler les ressources collect\u00e9es. Donne acc\u00e8s aux capacit\u00e9s D\u00e9ploiement du drone d\u00e9tecteur et Boucliers\u00a0! \u00e0 partir du panneau sup\u00e9rieur.",
+    "UnitData_Name_HQTier1": "Poste de commandement",
+    "UnitData_name_HQTier3": "Haut commandement",
+    "Button_Tooltip_HQTier1_Button": "Structure primaire. Utilis\u00e9e pour rassembler les ressources collect\u00e9es.",
+    "Button_Tooltip_GreaterShrine_Button": "Am\u00e9liorer en Grand Sanctuaire pour d\u00e9verrouiller des unit\u00e9s, des structures et des am\u00e9liorations avanc\u00e9es.\r\n\r\nD\u00e9bloque le Rituel d\u2019Animus <Bold>Manifestation de Pierre de linceul</> sur le panneau sup\u00e9rieur.\r\n\r\n R\u00e9cup\u00e9ration de <Bold>sant\u00e9 blanche</> augment\u00e9e d\u00e9finitivement de 4\u00a0% par seconde pour les unit\u00e9s infernales en <Bold>Linceul</>.",
+    "Button_Tooltip_LesserShrine_Button": "Structure primaire. Utilis\u00e9e pour rassembler les ressources collect\u00e9es. R\u00e9pand le <Bold>Linceul</>.",
+    "UnitData_name_ArcshipTier3": "Arche-forteresse",
+    "Button_tooltip_ArcshipTier3_Button": "Am\u00e9liore en Arche-forteresse, d\u00e9verrouillant la fine fleur des unit\u00e9s, structures et am\u00e9liorations c\u00e9lestes. Augmente la r\u00e9cup\u00e9ration d\u2019\u00e9nergie et d\u00e9bloque la capacit\u00e9 Destin\u00e9e fatale.\r\n\r\n D\u00e9bloque l\u2019Intervention astrale <Bold>Invocation du portail d\u2019\u00e9ternit\u00e9</> depuis le panneau sup\u00e9rieur.\r\n\r\n Octroie 30\u00a0points de puissance. \r\n\r\n</><Highlight>Exaltation</>\u00a0: vitesse de d\u00e9placement et r\u00e9cup\u00e9ration d\u2019\u00e9nergie augment\u00e9es de 50\u00a0%.",
+    "Button_Tooltip_HQTier3_Button": "Structure primaire. Utilis\u00e9e pour rassembler les ressources collect\u00e9es. Donne acc\u00e8s aux capacit\u00e9s Surcharge B.O.B et D\u00e9ploiement du drone d\u00e9tecteur."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "pegasus_core": {
+    "UnitData_Name_GreaterShrine": "Santuario mayor",
+    "UnitData_Name_LesserShrine": "Santuario",
+    "Button_Tooltip_ElderShrine_Button": "Mejora a Santuario de los ancianos y desbloquea las mejores unidades, estructuras y mejoras infernales.\r\n\r\nActiva el ritual de \u00c1nimus <Bold>Ca\u00edda sombr\u00eda</> en el panel superior.\r\n\r\nOtorga permanentemente a las unidades infernales un 6% de regeneraci\u00f3n de <Bold>salud blanca</> por segundo en la <Bold>Bruma</>.",
+    "Button_Tooltip_ArcshipTier1_Button": "Estructura m\u00f3vil voladora. Se usa para recibir el terio recolectado. Proyecta un campo en cascada a su alrededor y puede usar la habilidad Salvaci\u00f3n hacia el cielo, que cura a las unidades aliadas fuera de combate.\r\n\r\nProporciona 30 de poder.\r\n\r\n<Highlight>Sobrecargada</>: Obtiene un 50% adicional de velocidad de movimiento y regeneraci\u00f3n de energ\u00eda.",
+    "UnitData_Name_ElderShrine": "Santuario de los ancianos",
+    "UnitData_name_ArcshipTier2": "Estaci\u00f3n de arco",
+    "UnitData_name_ArcshipTier1": "Arca celestial",
+    "Button_tooltip_ArcshipTier2_Button": "Mejora a estaci\u00f3n de arcas y desbloquea unidades, estructuras y mejoras m\u00e1s avanzadas. Aumenta la regeneraci\u00f3n de energ\u00eda.\r\n\r\nActiva las intervenciones astrales <Bold>Catalizador de evoluci\u00f3n</> y <Bold>Purificar</> en el panel superior.\r\n\r\nProporciona 30 de poder.\r\n\r\n<Highlight>Sobrecargada</>: Obtiene un 50% adicional de velocidad de movimiento y regeneraci\u00f3n de energ\u00eda.",
+    "UnitData_name_HQTier2": "Comando Central",
+    "Button_Tooltip_HQTier2_Button": "Estructura primaria. Se utiliza para recibir recursos recolectados. Activa las habilidades Desplegar dron de sensores y \u00a1Escudos arriba! desde el panel superior.",
+    "UnitData_Name_HQTier1": "Puesto de mando",
+    "UnitData_name_HQTier3": "Alto comando",
+    "Button_Tooltip_HQTier1_Button": "Estructura primaria. Se utiliza para recibir recursos recolectados.",
+    "Button_Tooltip_GreaterShrine_Button": "Mejora a Gran santuario y desbloquea unidades, estructuras y mejoras m\u00e1s avanzadas.\r\n\r\nHabilita los rituales de \u00c1nimus <Bold>Manifestaci\u00f3n de Piedra de bruma</> en el panel superior.\r\n\r\nOtorga permanentemente a las unidades infernales un 4% de regeneraci\u00f3n de <Bold>salud blanca</> por segundo en la <Bold>Bruma</>.",
+    "Button_Tooltip_LesserShrine_Button": "Estructura primaria. Se utiliza para recibir recursos recolectados. Extiende la <Bold>Bruma</>.",
+    "UnitData_name_ArcshipTier3": "Fortaleza de arcas",
+    "Button_tooltip_ArcshipTier3_Button": "Mejora a fortaleza de arcas y desbloquea las mejores unidades, estructuras y mejoras celestiales. Aumenta la regeneraci\u00f3n de energ\u00eda y activa la habilidad El fin del destino.\r\n\r\nActiva la intervenci\u00f3n astral <Bold>Invocar puerta e\u00f3nica</> en el panel superior.\r\n\r\nProporciona 30 de poder.\r\n\r\n<Highlight>Sobrecargada</>: Obtiene un 50% adicional de velocidad de movimiento y regeneraci\u00f3n de energ\u00eda.",
+    "Button_Tooltip_HQTier3_Button": "Estructura primaria. Se utiliza para recibir recursos recolectados. Puede usar las habilidades Sobrecarga de BOB y Desplegar dron de sensores."
+  }
+}

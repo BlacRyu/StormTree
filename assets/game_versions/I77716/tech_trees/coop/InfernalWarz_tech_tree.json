@@ -1,0 +1,148 @@
+{
+  "nodes": [
+    {
+      "id": "LesserShrine",
+      "type": "building",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "data": {
+        "name": "pegasus_core|UnitData_Name_LesserShrine",
+        "icon": "Texture2D'/Game/Pegasus/UI/Assets/Icons/Structures/Demon/UI_Icons_Structures_Demon_LesserShrine.UI_Icons_Structures_Demon_LesserShrine'",
+        "description": "pegasus_core|Button_Tooltip_LesserShrine_Button",
+        "lumenite_cost": 350.0,
+        "therium_cost": 0.0,
+        "build_time": 80.0,
+        "armor": 15.0,
+        "health": {
+          "maximum": 1500.0,
+          "regen": 0.0,
+          "starting": 1500.0
+        },
+        "energy": {
+          "maximum": 0.0,
+          "regen": 0.0,
+          "starting": 0.0
+        },
+        "shield": {
+          "maximum": 0.0,
+          "regen": 0.0,
+          "starting": 0.0
+        },
+        "supply": 15.0,
+        "can_build": [
+          "Imp"
+        ],
+        "can_research": [],
+        "morphs_to": [
+          "GreaterShrine"
+        ],
+        "makes_available": [
+          "Imp",
+          "BarrowFarm",
+          "IronVault",
+          "Conclave"
+        ]
+      }
+    },
+    {
+      "id": "GreaterShrine",
+      "type": "building",
+      "position": {
+        "x": 500,
+        "y": 0
+      },
+      "data": {
+        "name": "pegasus_core|UnitData_Name_GreaterShrine",
+        "icon": "Texture2D'/Game/Pegasus/UI/Assets/Icons/Structures/Demon/UI_Icons_Structures_Demon_GreaterShrine.UI_Icons_Structures_Demon_GreaterShrine'",
+        "description": "pegasus_core|Button_Tooltip_GreaterShrine_Button",
+        "lumenite_cost": 500.0,
+        "therium_cost": 100.0,
+        "build_time": 30.0,
+        "armor": 15.0,
+        "health": {
+          "maximum": 2500.0,
+          "regen": 0.0,
+          "starting": 2500.0
+        },
+        "energy": {
+          "maximum": 0.0,
+          "regen": 0.0,
+          "starting": 0.0
+        },
+        "shield": {
+          "maximum": 0.0,
+          "regen": 0.0,
+          "starting": 0.0
+        },
+        "supply": 15.0,
+        "can_build": [
+          "Imp"
+        ],
+        "can_research": [],
+        "morphs_to": [
+          "ElderShrine"
+        ],
+        "makes_available": [
+          "Magmadon",
+          "Weaver",
+          "TwilightSpire"
+        ]
+      }
+    },
+    {
+      "id": "ElderShrine",
+      "type": "building",
+      "position": {
+        "x": 1000,
+        "y": 0
+      },
+      "data": {
+        "name": "pegasus_core|UnitData_Name_ElderShrine",
+        "icon": "Texture2D'/Game/Pegasus/UI/Assets/Icons/Structures/Demon/UI_Icons_Structures_Demon_ElderShrine.UI_Icons_Structures_Demon_ElderShrine'",
+        "description": "pegasus_core|Button_Tooltip_ElderShrine_Button",
+        "lumenite_cost": 700.0,
+        "therium_cost": 250.0,
+        "build_time": 60.0,
+        "armor": 15.0,
+        "health": {
+          "maximum": 3500.0,
+          "regen": 0.0,
+          "starting": 3500.0
+        },
+        "energy": {
+          "maximum": 0.0,
+          "regen": 0.0,
+          "starting": 0.0
+        },
+        "shield": {
+          "maximum": 0.0,
+          "regen": 0.0,
+          "starting": 0.0
+        },
+        "supply": 15.0,
+        "can_build": [
+          "Imp"
+        ],
+        "can_research": [],
+        "morphs_to": [],
+        "makes_available": [
+          "FlayedDragon"
+        ]
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "t1->t2",
+      "source": "LesserShrine",
+      "target": "GreaterShrine"
+    },
+    {
+      "id": "t2->t3",
+      "source": "GreaterShrine",
+      "target": "ElderShrine"
+    }
+  ]
+}

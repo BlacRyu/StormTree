@@ -1,0 +1,151 @@
+{
+  "nodes": [
+    {
+      "id": "HQTier1",
+      "type": "building",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "data": {
+        "name": "pegasus_core|UnitData_Name_HQTier1",
+        "icon": "Texture2D'/Game/Pegasus/UI/Assets/Icons/Structures/Human/UI_Icons_Structures_Human_HQ.UI_Icons_Structures_Human_HQ'",
+        "description": "pegasus_core|Button_Tooltip_HQTier1_Button",
+        "lumenite_cost": 400.0,
+        "therium_cost": 0.0,
+        "build_time": 90.0,
+        "armor": 15.0,
+        "health": {
+          "maximum": 1500.0,
+          "regen": 0.0,
+          "starting": 1500.0
+        },
+        "energy": {
+          "maximum": 0.0,
+          "regen": 0.0,
+          "starting": 0.0
+        },
+        "shield": {
+          "maximum": 0.0,
+          "regen": 0.0,
+          "starting": 0.0
+        },
+        "supply": 15.0,
+        "can_build": [
+          "Worker"
+        ],
+        "can_research": [],
+        "morphs_to": [
+          "HQTier2"
+        ],
+        "makes_available": [
+          "Worker",
+          "Habitat",
+          "Barracks"
+        ]
+      }
+    },
+    {
+      "id": "HQTier2",
+      "type": "building",
+      "position": {
+        "x": 500,
+        "y": 0
+      },
+      "data": {
+        "name": "pegasus_core|UnitData_name_HQTier2",
+        "icon": "Texture2D'/Game/Pegasus/UI/Assets/Icons/Structures/Human/UI_Icons_Structures_Human_HQTier2.UI_Icons_Structures_Human_HQTier2'",
+        "description": "pegasus_core|Button_Tooltip_HQTier2_Button",
+        "lumenite_cost": 550.0,
+        "therium_cost": 100.0,
+        "build_time": 30.0,
+        "armor": 15.0,
+        "health": {
+          "maximum": 2500.0,
+          "regen": 0.0,
+          "starting": 2500.0
+        },
+        "energy": {
+          "maximum": 0.0,
+          "regen": 0.0,
+          "starting": 0.0
+        },
+        "shield": {
+          "maximum": 0.0,
+          "regen": 0.0,
+          "starting": 0.0
+        },
+        "supply": 15.0,
+        "can_build": [
+          "Worker"
+        ],
+        "can_research": [],
+        "morphs_to": [
+          "HQTier3"
+        ],
+        "makes_available": [
+          "MedTech",
+          "Vulcan",
+          "Scrapyard",
+          "HangarBay",
+          "Warforge",
+          "SolarHabitat"
+        ]
+      }
+    },
+    {
+      "id": "HQTier3",
+      "type": "building",
+      "position": {
+        "x": 1000,
+        "y": 0
+      },
+      "data": {
+        "name": "pegasus_core|UnitData_name_HQTier3",
+        "icon": "Texture2D'/Game/Pegasus/UI/Assets/Icons/Structures/Human/UI_Icons_Structures_Human_HQTier3.UI_Icons_Structures_Human_HQTier3'",
+        "description": "pegasus_core|Button_Tooltip_HQTier3_Button",
+        "lumenite_cost": 750.0,
+        "therium_cost": 250.0,
+        "build_time": 70.0,
+        "armor": 15.0,
+        "health": {
+          "maximum": 3500.0,
+          "regen": 0.0,
+          "starting": 3500.0
+        },
+        "energy": {
+          "maximum": 0.0,
+          "regen": 0.0,
+          "starting": 0.0
+        },
+        "shield": {
+          "maximum": 0.0,
+          "regen": 0.0,
+          "starting": 0.0
+        },
+        "supply": 15.0,
+        "can_build": [
+          "Worker"
+        ],
+        "can_research": [],
+        "morphs_to": [],
+        "makes_available": [
+          "Empath",
+          "Helicarrier"
+        ]
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "t1->t2",
+      "source": "HQTier1",
+      "target": "HQTier2"
+    },
+    {
+      "id": "t2->t3",
+      "source": "HQTier2",
+      "target": "HQTier3"
+    }
+  ]
+}

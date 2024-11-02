@@ -1,0 +1,26 @@
+{
+  "pegasus_core": {
+    "UnitData_Name_ElderShrine": "\u00c4ltestenschrein",
+    "Button_Tooltip_GreaterShrine_Button": "F\u00fchrt ein Upgrade zum Gro\u00dfen Schrein durch und schaltet fortschrittlichere Einheiten, Geb\u00e4ude und Upgrades frei. \r\n\r\nErm\u00f6glicht das Animusritual <Bold>Schleierstein-Manifestation</> aus der Kopfleiste.\r\n\r\nGew\u00e4hrt Infernalen-Einheiten dauerhaft 4 % <Bold>Wei\u00dfe Gesundheit</>-Regeneration pro Sekunde im <Bold>Schleier</>.",
+    "Button_tooltip_ArcshipTier3_Button": "F\u00fchrt ein Upgrade auf die Bogenfestung durch und schaltet die fortschrittlichsten Himmlischen-Einheiten, -Geb\u00e4ude und -Upgrades frei. Erh\u00f6ht die Energieregeneration und erm\u00f6glicht Schicksalsende.\r\n\r\nErm\u00f6glicht den Astraleingriff <Bold>\u00c4onentor beschw\u00f6ren</> aus der Kopfleiste.\r\n\r\nGew\u00e4hrt 30\u00a0Strom.\r\n\r\n<Highlight>\u00dcberladen</>: Erh\u00f6ht das Bewegungstempo und Energieregeneration um 50\u00a0%.",
+    "Button_Tooltip_ElderShrine_Button": "F\u00fchrt ein Upgrade zum \u00c4ltestenschrein durch und schaltet die fortschrittlichsten Infernalen-Einheiten, -Geb\u00e4ude, und -Upgrades frei.\r\n\r\nErm\u00f6glicht das Animusritual <Bold>Schattenfall</> aus der Kopfleiste.\r\n\r\nGew\u00e4hrt Infernalen-Einheiten im <Bold>Schleier</> dauerhaft 6\u00a0% <Bold>Wei\u00dfe Gesundheit</>-Regeneration pro Sekunde.",
+    "UnitData_name_ArcshipTier2": "Borgenstation",
+    "Button_Tooltip_HQTier2_Button": "Prim\u00e4rgeb\u00e4ude. Dient der Aufnahme gesammelter Ressourcen. Erm\u00f6glicht, die F\u00e4higkeiten Sensordrohne einsetzen und Schilde hoch! in der Kopfleiste zu verwenden.",
+    "Button_tooltip_ArcshipTier2_Button": "F\u00fchrt ein Upgrade zur Bogenstation durch und schaltet fortschrittlichere Einheiten, Geb\u00e4ude und Upgrades frei. Erh\u00f6ht die Energieregeneration.\r\n\r\nErm\u00f6glicht die Astraleingriffe <Bold>Evolutionskatalysator</> und <Bold>L\u00e4uterung</> aus der Kopfleiste.\r\n\r\nGew\u00e4hrt 30\u00a0Strom.\r\n\r\n<Highlight>\u00dcberschwemmt</>: Erh\u00f6ht das Bewegungstempo und Energieregeneration um\u00a050\u00a0%.",
+    "Button_Tooltip_HQTier3_Button": "Prim\u00e4re Struktur. Dient der Aufnahme gesammelter Ressourcen. Kann die F\u00e4higkeiten B.O.B.-\u00dcberladung und Sensor-Drohne einsetzen verwenden.",
+    "UnitData_name_HQTier2": "Kommandozentrale",
+    "Button_Tooltip_HQTier1_Button": "Prim\u00e4rgeb\u00e4ude. Dient der Aufnahme gesammelter Ressourcen.",
+    "UnitData_name_ArcshipTier3": "Bogenfestung",
+    "UnitData_name_ArcshipTier1": "Bogenschiff",
+    "UnitData_name_HQTier3": "Oberkommandozentrale",
+    "UnitData_Name_LesserShrine": "Schrein",
+    "UnitData_Name_GreaterShrine": "Gro\u00dfer Schrein",
+    "Button_Tooltip_ArcshipTier1_Button": "Fliegendes mobiles Geb\u00e4ude. Wird verwendet, um gesammeltes Therium zu erhalten. Projiziert ein Kaskadenfeld um sich herum und kann die F\u00e4higkeit Himmlischen-Rettung einsetzen, die befreundete Einheiten au\u00dferhalb des Kampfes heilt.\r\n\r\nGew\u00e4hrt 30 Strom.\r\n\r\n<Highlight>\u00dcberladen</>: Erh\u00f6ht das Bewegungstempo und Energieregeneration um 50\u00a0%.",
+    "Button_Tooltip_LesserShrine_Button": "Prim\u00e4rgeb\u00e4ude. Dient der Aufnahme gesammelter Ressourcen. Verbreitet <Bold>Schleier</>.",
+    "UnitData_Name_HQTier1": "Gefechtsstand"
+  },
+  "pegasus_commanders": {
+    "UnitData_name_GreaterShrineMaloc": "Gro\u00dfer Schrein",
+    "UnitData_name_LesserShrineMaloc": "Schrein"
+  }
+}

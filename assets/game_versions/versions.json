@@ -1,0 +1,16 @@
+{
+  "game_versions": [
+    {
+      "build_version": "ironclad.77716.Shipping",
+      "patch_version": "0.1.2",
+      "archive_name": "I77716",
+      "date_released": "2024-10-28"
+    },
+    {
+      "build_version": "hunter2.75432.Shipping",
+      "patch_version": "0.1.1",
+      "archive_name": "H75432",
+      "date_released": "2024-10-03"
+    }
+  ]
+}

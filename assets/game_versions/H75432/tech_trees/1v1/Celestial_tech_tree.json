@@ -1,0 +1,150 @@
+{
+  "nodes": [
+    {
+      "id": "ArcshipTier1Flying",
+      "type": "building",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "data": {
+        "name": "pegasus_core|UnitData_name_ArcshipTier1",
+        "icon": "Texture2D'/Game/Pegasus/UI/Assets/Icons/Structures/Angel/UI_Icons_Structures_Angel_ArcshipT1.UI_Icons_Structures_Angel_ArcshipT1'",
+        "description": "pegasus_core|Button_Tooltip_ArcshipTier1_Button",
+        "lumenite_cost": 250.0,
+        "therium_cost": 0.0,
+        "build_time": 60.0,
+        "armor": 15.0,
+        "health": {
+          "maximum": 800.0,
+          "regen": 1.0,
+          "starting": 800.0
+        },
+        "energy": {
+          "maximum": 100.0,
+          "regen": 0.25,
+          "starting": 25.0
+        },
+        "shield": {
+          "maximum": 0.0,
+          "regen": 0.0,
+          "starting": 0.0
+        },
+        "supply": 0.0,
+        "can_build": [
+          "Prism",
+          "MorphCore"
+        ],
+        "can_research": [],
+        "morphs_to": [
+          "ArcshipTier2Flying"
+        ],
+        "makes_available": []
+      }
+    },
+    {
+      "id": "ArcshipTier2Flying",
+      "type": "building",
+      "position": {
+        "x": 500,
+        "y": 0
+      },
+      "data": {
+        "name": "pegasus_core|UnitData_name_ArcshipTier2",
+        "icon": "Texture2D'/Game/Pegasus/UI/Assets/Icons/Structures/Angel/UI_Icons_Structures_Angel_ArcshipT2.UI_Icons_Structures_Angel_ArcshipT2'",
+        "description": "pegasus_core|Button_tooltip_ArcshipTier2_Button",
+        "lumenite_cost": 400.0,
+        "therium_cost": 100.0,
+        "build_time": 30.0,
+        "armor": 15.0,
+        "health": {
+          "maximum": 1200.0,
+          "regen": 1.5,
+          "starting": 1200.0
+        },
+        "energy": {
+          "maximum": 100.0,
+          "regen": 0.5,
+          "starting": 25.0
+        },
+        "shield": {
+          "maximum": 0.0,
+          "regen": 0.0,
+          "starting": 0.0
+        },
+        "supply": 0.0,
+        "can_build": [
+          "Prism",
+          "MorphCore"
+        ],
+        "can_research": [],
+        "morphs_to": [
+          "ArcshipTier3Flying"
+        ],
+        "makes_available": [
+          "Scanner",
+          "Cabal",
+          "Scythe",
+          "Saber",
+          "Bastion",
+          "WarpNode"
+        ]
+      }
+    },
+    {
+      "id": "ArcshipTier3Flying",
+      "type": "building",
+      "position": {
+        "x": 1000,
+        "y": 0
+      },
+      "data": {
+        "name": "pegasus_core|UnitData_name_ArcshipTier3",
+        "icon": "Texture2D'/Game/Pegasus/UI/Assets/Icons/Structures/Angel/UI_Icons_Structures_Angel_ArcshipT3.UI_Icons_Structures_Angel_ArcshipT3'",
+        "description": "pegasus_core|Button_tooltip_ArcshipTier3_Button",
+        "lumenite_cost": 600.0,
+        "therium_cost": 250.0,
+        "build_time": 70.0,
+        "armor": 15.0,
+        "health": {
+          "maximum": 1600.0,
+          "regen": 2.0,
+          "starting": 1600.0
+        },
+        "energy": {
+          "maximum": 100.0,
+          "regen": 0.75,
+          "starting": 25.0
+        },
+        "shield": {
+          "maximum": 0.0,
+          "regen": 0.0,
+          "starting": 0.0
+        },
+        "supply": 0.0,
+        "can_build": [
+          "Prism",
+          "MorphCore"
+        ],
+        "can_research": [],
+        "morphs_to": [],
+        "makes_available": [
+          "ArchangelFlying",
+          "CelestialHQ"
+        ]
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "t1->t2",
+      "source": "ArcshipTier1Flying",
+      "target": "ArcshipTier2Flying"
+    },
+    {
+      "id": "t2->t3",
+      "source": "ArcshipTier2Flying",
+      "target": "ArcshipTier3Flying"
+    }
+  ]
+}
